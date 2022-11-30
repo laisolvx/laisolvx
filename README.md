@@ -1,4 +1,6 @@
-Desenvolvedor FullStack/Back-end | Front-end. Baiana, virginiana, gamer. Em 2017 foi quando eu decidi entrar para a área da tecnologia, onde me formei em Suporte Técnico em TI e trabalhei durante 1 ano e 5 meses. Já em 2022 eu optei por trilhar o caminho da programação, dando ínicio ao curso de Desenvolvimento de Software na Cubos Academy.
+Desenvolvedor FullStack/Back-end | Front-end. Baiana, virginiana, gamer. 
+
+Em 2017 foi quando eu decidi entrar para a área da tecnologia, onde me formei em Suporte Técnico em TI e trabalhei durante 1 ano e 5 meses. Já em 2022 eu optei por trilhar o caminho da programação, dando ínicio ao curso de Desenvolvimento de Software na Cubos Academy.
 
 ![Anurag GitHub stats](https://github-readme-stats.vercel.app/api?username=laisolvx&show_icons=true&theme=tokyonight)
 
