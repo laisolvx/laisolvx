@@ -1,15 +1,36 @@
-Desenvolvedor FullStack/Back-end | Front-end. Baiana, virginiana, gamer. 
 
-Em 2017 foi quando eu decidi entrar para a área da tecnologia, onde me formei em Suporte Técnico em TI e trabalhei durante 1 ano e 5 meses. Já em 2022 eu optei por trilhar o caminho da programação, dando ínicio ao curso de Desenvolvimento de Software na Cubos Academy.
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lais Oliveira</h1>
 
-![Anurag GitHub stats](https://github-readme-stats.vercel.app/api?username=laisolvx&show_icons=true&theme=tokyonight)
+## Contact
 
-[![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white/)](https://github.com/laisolvx) [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/laisolvx/)
+<p align="left" style="background:yellow">
+<a href="https://linkedin.com/in/laisolvx" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-laisolvx-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://github.com/laisolvx" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="github"/>
+</a>
+</p> <img align="right" height="290em" src="https://media3.giphy.com/media/jQPRXqTQu1hxut85sV/giphy.gif?cid=790b7611ec191d869eec887c6060edefdf878a2bfd5bec02&rid=giphy.gif&ct=g"/>
 
-Skills:
+- 👨🏻‍💻 Jr Web Developer & IT Technical Support
+- ⚡Operating Systems **Windows, Ubuntu, Pop!_OS, Linux Mint, macOS**
 
-[![Blog](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]() [![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]() [![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]() [![Blog](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]() [![Blog](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]() [![Blog](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]() [![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 
-OS:
 
-[![Blog](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]() [![Blog](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)]() [![Blog](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]() [![Blog](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+
+
+
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
