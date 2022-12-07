@@ -1,23 +1,25 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lais Oliveira</h1>
 
-
-## Contact
+## Contato
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/laisolvx" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-laisolvx-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://github.com/laisolvx" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="github"/>
 </a>
-</p> <img align="right" height="290em" src="https://media3.giphy.com/media/jQPRXqTQu1hxut85sV/giphy.gif?cid=790b7611ec191d869eec887c6060edefdf878a2bfd5bec02&rid=giphy.gif&ct=g"/>
+</p> <img align="right" height="250em" src="https://wallpaperaccess.com/full/2471352.jpg"/>
 
-- 👨🏻‍💻 Jr Web Developer & IT Technical Support
-- ⚡Operating Systems **Windows, Ubuntu, Pop!_OS, Linux Mint, macOS**
+- 🤩 Amante de Café, Tecnologia, Harry Potter, Valorant, Anime
+
+- 👨🏻‍💻 Desenvolvedora Web Fullstack formada na <a href="https://cubos.academy" target="_blank">Cubos Academy</a>. O curso teve duração de 9 meses, onde pude me tornar entusiasta de linguagem de programação e assim desenvolver minhas soft skills que foram: comunicação, gestão de tempo, trabalho em equipe, otimismo.
+
+- ⚡SO: **Windows, Ubuntu, Pop!_OS, Linux Mint, macOS**
 
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
