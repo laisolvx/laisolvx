@@ -14,7 +14,7 @@
 
 - 🤩 Amante da Tecnologia, Café, Harry Potter, Valorant, Anime
 
-- 👨🏻‍💻 Desenvolvedora Web Fullstack formada na <a href="https://cubos.academy" target="_blank">Cubos Academy</a>. O curso teve duração de 9 meses, onde pude me tornar entusiasta de linguagem de programação e assim desenvolver minhas soft skills que foram: comunicação, gestão de tempo, trabalho em equipe, otimismo.
+- 👨🏻‍💻 Desenvolvedora Web Fullstack formada na <a href="https://cubos.academy" target="_blank">Cubos Academy</a>. O curso teve duração de 8 meses, onde pude me tornar entusiasta de linguagem de programação e assim desenvolver minhas soft skills que foram: comunicação, gestão de tempo, trabalho em equipe, otimismo.
 
 - ⚡SO: **Windows, Ubuntu, Pop!_OS, Linux Mint, macOS**
 
