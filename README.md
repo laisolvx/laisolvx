@@ -12,7 +12,7 @@
 </a>
 </p> <img align="right" height="250em" src="https://wallpaperaccess.com/full/2471352.jpg"/>
 
-- 🤩 Amante de Café, Tecnologia, Harry Potter, Valorant, Anime
+- 🤩 Amante da Tecnologia, Café, Harry Potter, Valorant, Anime
 
 - 👨🏻‍💻 Desenvolvedora Web Fullstack formada na <a href="https://cubos.academy" target="_blank">Cubos Academy</a>. O curso teve duração de 9 meses, onde pude me tornar entusiasta de linguagem de programação e assim desenvolver minhas soft skills que foram: comunicação, gestão de tempo, trabalho em equipe, otimismo.
 
