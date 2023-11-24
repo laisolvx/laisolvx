@@ -1,6 +1,5 @@
 - 🌱 Junior Web Developer & focused on programming for web
-- 
-
+  
 # 👨🏻‍💻 Technologies and languages
 
 ![Delphi](https://img.shields.io/badge/-Delphi-05122A?style=flat&logo=delphi)&nbsp;
