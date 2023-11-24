@@ -1,4 +1,4 @@
-- 🌱 Junior Web Developer & focused on programming for web
+Junior Web Developer & focused on programming for web
   
 # 👨🏻‍💻 Technologies and languages
 
